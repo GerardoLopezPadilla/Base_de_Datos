@@ -19,3 +19,7 @@ https://www.db-fiddle.com/f/uhFPoCaBq9y5saJerifZtB/1
 https://www.db-fiddle.com/f/uhFPoCaBq9y5saJerifZtB/2
 
 https://www.db-fiddle.com/f/uhFPoCaBq9y5saJerifZtB/3
+
+
+Ejemplos de INNER JOIN:
+https://www.db-fiddle.com/f/uhFPoCaBq9y5saJerifZtB/4
