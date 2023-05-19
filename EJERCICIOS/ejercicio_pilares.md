@@ -22,8 +22,11 @@ https://www.db-fiddle.com/f/uhFPoCaBq9y5saJerifZtB/3
 
 
 Ejemplos de INNER JOIN:
+
 https://www.db-fiddle.com/f/uhFPoCaBq9y5saJerifZtB/4
 
 Triggers y Condicionales:
+
 https://www.db-fiddle.com/f/uhFPoCaBq9y5saJerifZtB/5
+
 https://www.db-fiddle.com/f/uhFPoCaBq9y5saJerifZtB/6
